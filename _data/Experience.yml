@@ -2,14 +2,14 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Sharks Web Services
+    role: Senior Software Engineer
     description:
       - Led development of a new chatbot software utilizing large language model
       - Co-designer of '*Kopilot*' and '*Gemmini*'
     date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+  - title: NIBS Technical College
+    role: Software/Web Developer
     description: 
       - Built a Java microservice, database schema to manage customer accounts
       - Enhanced internal pipelines to query real-time data from client devices
