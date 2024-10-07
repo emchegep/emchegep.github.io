@@ -2,12 +2,11 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: KASNEB Award
+    description:
+    - Ranked the best candidate by Kasneb in Foundation of accounting paper in the June 2009 examination sitting
+    date: Jun. 2009
+  - title: KASNEB Award
+    description:
+      - Ranked the best candidate by Kasneb in Software Engineering paper in the December 2011 examination sitting
+    date: Dec. 2011
