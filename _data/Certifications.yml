@@ -2,7 +2,8 @@ subject: Other Certifications
 listing-order: 3
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Freecodecamp.org
+  - title: Freecodecamp (freecodecamp.org)
+    description:
       - Responsive Web Design Certification
       - Front End Libraries Certification
       - Javascript Algorithms And Data Structures Certification
