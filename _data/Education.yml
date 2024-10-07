@@ -1,10 +1,10 @@
 subject: Education
-listing-order: 1
+listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Excel Institute of Professionals, Certified Information Communication Technologies (CICT-K)
     description:
-      - Design of a method to build a probabilistic generative model
+      -
       - Development of model calibration algorithm for cross-domain few-shot learning
     date: Jan. 2011 - Dec. 2013
   - title: Stanfort University, MA in Computer Science
