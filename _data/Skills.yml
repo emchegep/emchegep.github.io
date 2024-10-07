@@ -1,24 +1,55 @@
-subject: Skills
+subject: Technical Skills
 listing-order: 6
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
-    "
-  - title: Frameworks
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
-    "
+  - title: Languages
+    description:
+      - PHP
+      - Python
+      - Javascript
+      - C and C++
+      - Go
+  - title: Frameworks and Libraries
+    description:
+      - Laravel 11
+      - Vue3
+      - Nodejs
+      - Alpine
+      - Tailwindcss
+      - Bootstrap
+  - title: Laravel Ecosystem
+    description:
+        - Breeze
+        - Jetstream
+        - Livewire
+        - Dusk
+        - Echo
+        - Reverb
+        - Inertia
+        - Socialite
+        - Scout
+        - Passport
+        - Horizon
+  - title: Databases
+    description:
+      - MYSQL
+      - MongoDB
+      - Redis
+  - title: Cloud $ DevOps
+    description:
+        - AWS
+        - Docker
+        - CI/CD
+        - Jenkins
+  - title: Version
+    description:
+        - Git
+        - Github
+        - Gitlab
+        - Bitbucket
+        - Beanstalk
+  - title: Methodologies
+    description:
+        - Agile
+        - Test-Driven Development(TDD)
+        - Object-Oriented Design
